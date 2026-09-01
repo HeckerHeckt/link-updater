@@ -1,1 +1,1 @@
-https://acm-balance-labels-spait.trycloudflare.com
+https://acm-balance-labels-split.trycloudflare.com
